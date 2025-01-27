@@ -10,3 +10,11 @@
     align-items: center;
 }
 
+.hero{
+    height: 100%;
+}
+
+.button{
+    display: flex;
+    flex-direction: row;
+}
